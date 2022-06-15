@@ -8,4 +8,4 @@ raw_data/
 .env
 .vscode
 *.joblib
-env_setup.sh
+env_keys.sh
